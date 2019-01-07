@@ -1,6 +1,6 @@
 # MyReads Project
 
-[![Build Status](https://travis-ci.org/tonare/myreads.svg?branch=master)](https://travis-ci.org/tonare/reactnd-myreads)
+[![Build Status](https://travis-ci.org/tonare/reactnd-myreads.svg?branch=master)](https://travis-ci.org/tonare/reactnd-myreads)
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/234262a2865925b61438/maintainability)](https://codeclimate.com/github/tonare/reactnd-myreads/maintainability)
 

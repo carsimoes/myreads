@@ -21,7 +21,7 @@ const Menu = (props) => {
 
                             <a className="button is-primary" target="_blank"
                                 rel="noopener noreferrer"
-                                href="https://github.com/tonare/myreads.git">
+                                href="https://github.com/tonare/reactnd-myreads.git">
                                 <img src={GitIcon} alt="git logo" />
                             </a>
                         </p>
