@@ -7,7 +7,7 @@
 
 
 ## The author
-I'm Carlos. This project began in December 2018. He is the first task of the React Nanodegree Course. 
+I'm Carlos. This project began in December 2018. He is the first task of the Udacity React Nanodegree Course. 
 
 You can reach me at carlos.renato.simoes@gmail.com or on Linkedin in www.linkedin.com/in/carlosrenatosimoes.
 
