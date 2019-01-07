@@ -46,7 +46,3 @@ describe('<Book />', () => {
     wrapper.find('select').props().onChange(mockedEvent);
     expect(mockProps.booksShelfChange).toHaveBeenCalled();
 })
-
-// it('just pass', () => {
-//     expect(true);
-// })

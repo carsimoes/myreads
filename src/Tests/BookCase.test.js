@@ -1,10 +1,8 @@
 import React from 'react';
-// import BookCase from '../components/BookCase'
-import {
-    shallow,
-    mount
-} from 'enzyme';
+import BookCase from '../components/BookCase'
+import { shallow, mount } from 'enzyme';
 
+//TODO
 it('just pass', () => {
     expect(true);
 })
@@ -12,7 +10,6 @@ it('just pass', () => {
 // it('renders a BookCase without crashing', () => {
 //     mount(<BookCase />);
 // });
-
 
 // describe('<BookCase />', () => {
 //     const mockProps = {

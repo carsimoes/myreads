@@ -10,7 +10,3 @@ it('renders without crashing', () => {
     </Router>
   );
 })
-
-// it('just pass', () => {
-//   expect(true);
-// })
