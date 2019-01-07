@@ -1,11 +1,10 @@
 # MyReads Project
 
-[![Build Status](https://travis-ci.org/tonare/myreads.svg?branch=master)](https://travis-ci.org/tonare/myreads)
+[![Build Status](https://travis-ci.org/tonare/myreads.svg?branch=master)](https://travis-ci.org/tonare/reactnd-myreads)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/234262a2865925b61438/maintainability)](https://codeclimate.com/github/tonare/myreads/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/234262a2865925b61438/maintainability)](https://codeclimate.com/github/tonare/reactnd-myreads/maintainability)
 
 
-[![codecov](https://codecov.io/gh/tonare/myreads/branch/master/graph/badge.svg)](https://codecov.io/gh/tonare/myreads)
 
 ## The author
 I'm Carlos. This project began in December 2018. He is the first task of the React Nanodegree Course. 
