@@ -15,14 +15,9 @@ class BooksApp extends React.Component {
     searchText: ''
   }
 
-  componentDidMount() {
-    this.getAllBooks();
-  }
-
-  getAllBooks = () => {
-    BooksAPI.getAll().then((books) => this.setState({
-      books
-    }))
+  async componentDidMount() {
+    const books = await BooksAPI.getAll()
+    this.setState({ books })
   }
 
   moveBookShelf = (book, newValue) => {

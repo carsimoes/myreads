@@ -22,6 +22,7 @@ class BookCase extends Component {
                 <Menu></Menu>
                 <div className="list-books-content">
                     <div>
+
                         <BookShelf
                             books={books.filter((book) => (book.shelf === "currentlyReading"))}
                             title="Currently Reading"
