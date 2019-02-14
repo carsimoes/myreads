@@ -1,8 +1,8 @@
 # MyReads Project
 
-[![Build Status](https://travis-ci.org/carsimoes/reactnd-myreads.svg?branch=master)](https://travis-ci.org/carsimoes/reactnd-myreads)
+[![Build Status](https://travis-ci.org/carsimoes/myreads.svg?branch=master)](https://travis-ci.org/carsimoes/myreads)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/234262a2865925b61438/maintainability)](https://codeclimate.com/github/carsimoes/reactnd-myreads/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/234262a2865925b61438/maintainability)](https://codeclimate.com/github/carsimoes/myreads/maintainability)
 
 
 
