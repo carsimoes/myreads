@@ -2,9 +2,6 @@
 
 [![Build Status](https://travis-ci.org/carsimoes/myreads.svg?branch=master)](https://travis-ci.org/carsimoes/myreads)
 
-[![Maintainability](https://api.codeclimate.com/v1/badges/234262a2865925b61438/maintainability)](https://codeclimate.com/github/carsimoes/myreads/maintainability)
-
-
 
 ## The author
 I'm Carlos. This project began in December 2018. He is the first task of the Udacity React Nanodegree Course. 
